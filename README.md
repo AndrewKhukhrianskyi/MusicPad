@@ -2,4 +2,4 @@ MusicPad - It's a simple musical computer app, where you need to push on the but
 SETTINGS:
 Try to play on the Numpads :)
 Numpad7-Numpad0 - Button push
-Numpaddecimal and NumpadEnter - Button push to :)
+,Numpaddecimal and NumpadEnter - Button push to :)
